@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python + PyTest**
 
-- 👨‍💻 Site [kamilkaletka.pl](kamilkaletka.pl)
+- 👨‍💻 Site <a href="kamilkaletka.pl">kamilkaletka.pl</a>
 
 - 📫 How to reach me **kamilkaletka8@gmail.com**
 
