@@ -3,7 +3,7 @@
 
 - Working in **Salesmanago**
 
-- 🌱 I’m currently learning **Python + PyTest**
+- 🌱 I’m currently learning **Java + Spring**
 
 - 👨‍💻 Site [kamilkaleta.pl](https://kamilkaletka.pl)
 
